@@ -268,7 +268,7 @@
     width: 35px;
     height: 2px;
     background-color: #2b6c8c;
-    position: relative;
+    position: absolute;
     top: 142px;
     left: 630px;
     z-index: 3;

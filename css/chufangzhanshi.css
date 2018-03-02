@@ -11,8 +11,8 @@
     width: 35px;
     height: 2px;
     background-color: #2b6c8c;
-    position: relative;
-    top: 20px;
+    position: absolute;
+    top: 140px;
     left: 600px;
     z-index: 3;
 }

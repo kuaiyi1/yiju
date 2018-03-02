@@ -67,11 +67,11 @@
 }
 .head_content_middle{
 	float: left;
-	margin-left: 280px;
+	margin-left: 220px;
 }
 .head_content_right{
 	float: right;
-	margin-right: 40px;
+	
 }
 .head_content_middle_caidan{
 	font-size: 14px;
@@ -127,6 +127,7 @@
 	width: 100%;
 	height: 284px;
 	background-color: #bdcbd4;
+	margin: 0 auto;
 }
 .two_content{
 	width: 1200px;
@@ -167,6 +168,7 @@
 	position: absolute;
 	left: 0;
 	bottom: -35px;
+	margin: 0 auto;
 }
 .henggang_left{
 	width: 348px;
@@ -501,10 +503,16 @@
 .four_content3{
 	margin-left: 0;
 }
+.eight_middle{
+	width: 1200px;
+	margin: 0 auto;
+	position: absolute;
+
+}
 #eight{
 	width: 100%;
 	height: 363px;
-	
+	position: relative;
 	margin: 45px auto 60px;
 	
 }
@@ -606,8 +614,8 @@
 	width: 35px;
 	height: 2px;
 	background-color: #2b6c8c;
-	position: relative;
-	top: 20px;
+	position: absolute;
+	top: 160px;
 	left: 600px;
 	z-index: 3;
 }
@@ -851,6 +859,7 @@
 	height: 520px;
 	margin-top: 80px;
 	background-color: #235975;
+	margin: 0 auto;
 }
 .bottom_content{
 	width: 1200px;

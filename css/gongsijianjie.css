@@ -43,11 +43,12 @@
     left: 130px;
     top: -6px;
 }
+
 .two_content h4 {
     width: 35px;
     height: 2px;
     background-color: #2b6c8c;
-    position: relative;
+    position: absolute;
     top: 140px;
     left: 580px;
     z-index: 3;
@@ -519,21 +520,24 @@
 	color: #797979;
 }
 #six{
-	width: 100%;
+	width: 1200px;
 	height: 283px;
-	
+	margin: 0 auto;
 	position: relative;
 	margin-bottom: 97px;
 }
 .six_img{
 	width: 70%;
 	height: 100%;
+	position: absolute;
+	top: 0;
+	left: -70px;
 }
 .six_img1{
 	width: 65%;
 	height: 272px;
 	position: absolute;
-	right: 0;
+	right: -70px;
 	bottom: -97px;
 }
 

@@ -6,6 +6,15 @@
   url('https://at.alicdn.com/t/font_573061_fxplpx9lzdqdunmi.ttf') format('truetype'),
   url('https://at.alicdn.com/t/font_573061_fxplpx9lzdqdunmi.svg#iconfont') format('svg');
 }
+.team_middle{
+	width: 1200px;
+	margin: 0 auto;
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 83px;
+
+}
 .head_content_middle_caidan_xuanzhong_right1{
 	width: 8px;
 	height: 8px;
@@ -67,6 +76,7 @@
 	width: 100%;
 	height: 80px;
 	background-color: #fafafa;
+	margin: 0 auto;
 }
 .head_content{
 	width: 1200px;
@@ -164,6 +174,7 @@
 	background-image: url('../image/banner/1.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+	margin: 0 auto;
 }
 .banner1{
 	width: 1190px;
@@ -579,6 +590,7 @@
 	background: url('../img/aa14.png');
 	background-size: 100% 409px;
 	position: relative;
+	margin: 0 auto;
 }
 .team_img1{
 	width: 119px;
@@ -708,7 +720,7 @@
 	height: 625px;
 	position: absolute;
 	top: -122px;
-	right: 135px;
+	right: 10px;
 	z-index: 102;
 
 }
@@ -725,7 +737,7 @@
 	height: 453px;
 	position: absolute;
 	top:64px ;
-	right: 181px;
+	right: 40px;
 	z-index: 100;
 	border: 2px solid #333;
 }
@@ -734,6 +746,7 @@
     height: 520px;
     margin-top: 80px;
     background-color: #235975;
+    margin: 0 auto;
 }
 .bottom_content {
     width: 1200px;

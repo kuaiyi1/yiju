@@ -40,6 +40,7 @@
 	width: 100%;
 	height: 80px;
 	background-color: #fafafa;
+	margin: 0 auto;
 }
 .head_content{
 	width: 1200px;
@@ -52,7 +53,7 @@
 	width: 35px;
 	height: 2px;
 	background-color: #2b6c8c;
-	position: relative;
+	position: absolute;
 	top: 142px;
 	left: 630px;
 	z-index: 3;
@@ -198,6 +199,7 @@
 	position: absolute;
 	left: 0;
 	bottom: -35px;
+	
 }
 .henggang_left{
 	width: 348px;
